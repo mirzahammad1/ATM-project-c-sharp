@@ -1,0 +1,15 @@
+C:\Users\mirza\OneDrive\Desktop\ATM_PROJECT\bin\Debug\net6.0\ATM_PROJECT.exe
+C:\Users\mirza\OneDrive\Desktop\ATM_PROJECT\bin\Debug\net6.0\ATM_PROJECT.deps.json
+C:\Users\mirza\OneDrive\Desktop\ATM_PROJECT\bin\Debug\net6.0\ATM_PROJECT.runtimeconfig.json
+C:\Users\mirza\OneDrive\Desktop\ATM_PROJECT\bin\Debug\net6.0\ATM_PROJECT.dll
+C:\Users\mirza\OneDrive\Desktop\ATM_PROJECT\bin\Debug\net6.0\ATM_PROJECT.pdb
+C:\Users\mirza\OneDrive\Desktop\ATM_PROJECT\obj\Debug\net6.0\ATM_PROJECT.csproj.AssemblyReference.cache
+C:\Users\mirza\OneDrive\Desktop\ATM_PROJECT\obj\Debug\net6.0\ATM_PROJECT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mirza\OneDrive\Desktop\ATM_PROJECT\obj\Debug\net6.0\ATM_PROJECT.AssemblyInfoInputs.cache
+C:\Users\mirza\OneDrive\Desktop\ATM_PROJECT\obj\Debug\net6.0\ATM_PROJECT.AssemblyInfo.cs
+C:\Users\mirza\OneDrive\Desktop\ATM_PROJECT\obj\Debug\net6.0\ATM_PROJECT.csproj.CoreCompileInputs.cache
+C:\Users\mirza\OneDrive\Desktop\ATM_PROJECT\obj\Debug\net6.0\ATM_PROJECT.dll
+C:\Users\mirza\OneDrive\Desktop\ATM_PROJECT\obj\Debug\net6.0\refint\ATM_PROJECT.dll
+C:\Users\mirza\OneDrive\Desktop\ATM_PROJECT\obj\Debug\net6.0\ATM_PROJECT.pdb
+C:\Users\mirza\OneDrive\Desktop\ATM_PROJECT\obj\Debug\net6.0\ATM_PROJECT.genruntimeconfig.cache
+C:\Users\mirza\OneDrive\Desktop\ATM_PROJECT\obj\Debug\net6.0\ref\ATM_PROJECT.dll
